@@ -1,0 +1,27 @@
+{
+  "name": "javascript-dojo",
+  "version": "1.0.0",
+  "description": "Coding Problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshSevy/javascript-dojo.git"
+  },
+  "keywords": [
+    "coding-problems",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "Joshua Sevy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshSevy/javascript-dojo/issues"
+  },
+  "homepage": "https://github.com/JoshSevy/javascript-dojo#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
